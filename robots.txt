@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://Sangram1996147.github.io/gyansangram/sitemap.xml
